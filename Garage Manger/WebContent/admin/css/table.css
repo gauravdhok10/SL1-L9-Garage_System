@@ -1,0 +1,27 @@
+body {
+	background-color: #e6f0ff;
+}
+
+.heading {
+margin-top: 20vh;
+}
+.content {
+ 
+  margin-left: 370px; /* Same as the width of the sidenav */
+  font-size: 18px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+TABLE{
+background-color:white;
+box-shadow:0px 7px 9px 0px rgba(50, 50, 50, 0.62);
+margin-bottom:5vh;
+}
+tr{
+  border: 0.1px solid #dddddd;
+  text-align: left;
+  padding: 18px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
